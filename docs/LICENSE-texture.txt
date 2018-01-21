@@ -1,0 +1,25 @@
+Based on the Geoinformation Act (SR 510.62), the Federal Council included a general provision in the Geoinformation Ordinance (SR 510.620) governing access to, and use of, data. Here it entrusted the Federal Department of Defence, Civil Protection and Sport (DDPS) with the authority to define additional regulations at the departmental level relating to the free use of data. The DDPS subsequently incorporated a clause into the swisstopo ordinance on fees and charges dated 20 November 2009 (SR 510.620.2), granting broader use of geodata without the need for a licence and without the requirement to pay fees.
+
+Use without a licence and without payment of fees
+
+A licence for private use is issued when the maps or data are ordered and the corresponding fee has been paid.
+
+Based on the ordinances cited above, the following uses are exempted from licences and fees:
+
+     Private use and reproduction, and use and reproduction by persons with close ties, e.g. relatives and friends;
+    Use by teachers as educational material in classrooms;
+    Reproduction in businesses, public administration bodies and similar organisations, for internal information or documentation;
+    Modified analogue maps at scales smaller than 1:300,000;
+    Modified digital data with an average accuracy of <1:300,000;
+    Publication of modified data in analogue form up to format A5;
+    Publication of modified data in analogue form up to format A3 and in an edition of up to 100 copies;
+    Approximate sketches that are not to scale, or greatly altered data;
+    Publication in research reports and academic papers (diploma studies, masters degree papers, dissertations, advanced level school-leavers’ examinations, etc.) in an edition of up to 100 copies, or as static images in public networks;
+    Publication in the daily press to accompany reports;
+    Publication on websites as single static images in sizes up to 2,000,000 pixels or as integration of a small dynamic map (iframe with the map viewer map.geo.admin.ch of the Federal Office of Topography) in any web page.
+
+
+
+Reference must always be made in a suitable form to the source of the data (Source : Federal Office of Topography swisstopo).
+
+All other uses are regarded as commercial. The commercial use of official survey and geological data requires a licence, unless the data have been explicitly released for broader use with a corresponding licence. The term “commercial use” includes publication in printed (analogue) or digital form, modifications carried out automatically or manually, digitisation, renaming, etc. (see Licences for the use of official geodata) 
