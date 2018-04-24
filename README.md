@@ -1,6 +1,6 @@
 # Virtual Reality with JavaScript
 
-Demos presented at the Client Technology Days 2017 at Zuehlke / Bärner JS Talks 2018.
+Demos presented at the Client Technology Days 2017 at Zuehlke / Bärner JS Talks 2018 / Brownbag at Bern University of Applied Sciences 2018.
 
 ## Zuehlke cubes
 
