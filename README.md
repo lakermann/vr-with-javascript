@@ -1,5 +1,7 @@
 # Virtual Reality with JavaScript
 
+_by [Lukas Akermann](https://github.com/lakermann), September 2017_
+
 Demos presented at the Client Technology Days 2017 at Zuehlke / Bärner JS Talks 2018 / Brownbag at Bern University of Applied Sciences 2018.
 
 ## Zuehlke cubes
@@ -50,11 +52,13 @@ Demos presented at the Client Technology Days 2017 at Zuehlke / Bärner JS Talks
 
 Swiss coordinate system (Swiss grid, 50 km \* 50 km):
 
-             600000             650000
+```
+         600000             650000
 
-    200000      --------------------
-                | Bernese Oberland |
-    150000      --------------------
+200000      --------------------
+            | Bernese Oberland |
+150000      --------------------
+```
 
 ![Area Bernese Oberland](images/area.jpg "Area Bernese Oberland")
 
